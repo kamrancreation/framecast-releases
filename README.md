@@ -4,7 +4,7 @@ Installers for **Framecast**, a free Windows screen recorder for tutorials.
 
 **Website:** https://framecast-seven.vercel.app
 
-**Download the latest version:** [Framecast-Setup.exe](https://github.com/kamrancreation/framecast-releases/releases/latest/download/Framecast-Setup.exe)
+**Download the latest version:** [Releases → Latest](https://github.com/kamrancreation/framecast-releases/releases/latest). Installers are named `Framecast-Setup-<version>.exe`.
 
 Windows 10 (2004) or Windows 11, 64-bit. Everything is included; no other downloads are needed.
 
